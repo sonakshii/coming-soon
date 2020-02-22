@@ -4,7 +4,7 @@ body,html {
 }
 .bgimg {
   height: 100%;
-  background-image:url("flag.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url("flag.jpg");
  background-attachment: fixed;
 background-size: cover;
   background-position: center;
